@@ -1,7 +1,6 @@
-
 ---
-layout: home
-author_profile: true
+layout: page
+title: "ABOUT ME"
 permalink: /about-me/
----
 
+---
