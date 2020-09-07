@@ -1,9 +1,7 @@
+
 ---
-layout: page
-title: "ABOUT ME"
+layout: home
+author_profile: true
 permalink: /about-me/
-
 ---
-
-helloworld
 
