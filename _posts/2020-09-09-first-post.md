@@ -3,14 +3,18 @@ title: "A novel computationally efficient method to return safe trajectories"
 date: 2020-09-09 00:00:00 -0400
 categories: research
 ---
+
+<span style="font-size: medium; line-height: 2em;">
 <center><strong> A Fast and Safe Motion Planning Algorithm in Cluttered Environment using Maximally Occupying Convex Space</strong> <br>
   Youngsang Suh, Jiseock Kang, Dongjun Lee <br>
-  ICCAS 2020 <br> </center>
+  ICCAS 2020 <br>
+  <a href="/assets/pdf/A fast and safe motion planning algorithm in cluttered environment using maximally occupying convex space.pdf" target="_blank">paper</a> <a href="https://youtu.be/USFbCB9flEY" target="_blank">video</a> <br> </center>
+</span>
 
+<br>
 <div style="font-size: 15px; line-height: 25px;">
 This work presents a new planning method in cluttered environment using a newly defined concept called maximally occupying convex space (MOCS). Motion planning methods that use safe flight corridor (SFC) generally construct SFC in every new trial based on each initial path. We define MOCS in three-dimensional rectangular world to be prebuilt as SFC prior to the initial path computation. This approach enables to omit constructing SFC every new trial, and our experiment shows computation efficiency compared to a state-of-the-art algorithm based on SFC. <br>
  
- <center><a href="https://youtu.be/USFbCB9flEY" target="_blank">video</a></center>
 </div>
 
 <hr class="one">
@@ -47,5 +51,5 @@ How should we define a specific convex space to fill the whole free space withou
 Our approach is to use inclusion relation with other convex spaces. With this approach, one can simply (1) make locally maximum convex spaces and (2) use mathematical knowledge to prove the equivalence between feasible paths.
 
 <br>
-Furthermore, we use dynamic programming method to construct an algorithm. Dynamic programming is a powerful technique because almost all of the algorithms can be made by this method. <br>
+Furthermore, we use dynamic programming method to construct the algorithm. Dynamic programming is a powerful technique because almost all of the algorithms can be made by this method. <br>
 </div>
