@@ -60,8 +60,7 @@ Furthermore, we use dynamic programming method to construct the algorithm. Dynam
 <div style="font-size: 15px; line-height: 25px;">
 Given a rectangular world free space <img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/>, a set <img src="http://latex.codecogs.com/svg.latex?\mathbb{C}"/> of convex subsets in <img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/> and a set <img src="http://latex.codecogs.com/svg.latex?\mathbb{O}"/> of cuboid obstacles, a cuboid convex closed set <img src="http://latex.codecogs.com/svg.latex?C"/> is a maximally occupying convex space if and only if <img src="http://latex.codecogs.com/svg.latex?~\forall c \in"/> <img src="http://latex.codecogs.com/svg.latex?\mathbb{C}"/> s.t. <img src="http://latex.codecogs.com/svg.latex?c \not\subset C"/>, <img src="http://latex.codecogs.com/svg.latex?c \cup C"/> is not convex set. <br>
 
-<center><img src="/assets/images/MOCS example.jpg" border="0" width="430" height="330"/> </center> <br> </div>
-<div style="font-size: 10px; line-height: 15px;">
+<center><img src="/assets/images/MOCS example.jpg" border="0" width="430" height="330"/> </center> <br>
 Left: green convex space is not a MOCS, due to its union with red rectangle is a convex space. Right: green, light blue, purple convex spaces are MOCS that contain a blue point. <br>
   </div>
   
