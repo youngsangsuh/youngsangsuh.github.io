@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "RESEARCH"
 permalink: /research/
+classes: wide
 ---
 <span style="font-size: medium;">
 My research is centered around high-level control and smart stretchable electronics. Below are the research activities that I have conducted with the topics. 
