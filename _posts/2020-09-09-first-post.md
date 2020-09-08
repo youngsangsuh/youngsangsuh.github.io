@@ -21,7 +21,7 @@ This work presents a new planning method in cluttered environment using a newly 
 
 SFC consists of overlapping convex spaces that guarantee collision avoidance when waypoints are located inside the overlapping areas. Through utilizing SFC, the system can return safe trajectories owing to the property of SFC. <br>
 
-<center><img src="/assets/images/SFC.png" border="0" width="360" height="330"/> </center> <br>
+<center><img src="/assets/images/SFC_.png" border="0" width="300" height="330"/> </center> <br>
 </div>
 
 <hr class="one">
