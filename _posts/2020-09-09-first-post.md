@@ -43,7 +43,7 @@ To prebuild every possible SFC, we have to define a convex space and prove that 
 <strong> Approach </strong> <br>
  
 <div style="font-size: 15px; line-height: 25px;">
-How should we define a specific convex space to fill the whole free space without seed points? <br>
+How should we define a specific convex space to fill the whole free space without seed points? <br> <br>
 Our approach is to use inclusion relation with other convex spaces. With this approach, one can simply (1) make locally maximum convex spaces and (2) use mathematical knowledge to prove the equivalence between feasible paths.
 
 <br>
