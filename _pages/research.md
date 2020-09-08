@@ -5,6 +5,6 @@ title: "RESEARCH"
 permalink: /research/
 ---
 Research
- <iframe src="https://www.youtube.com/embed/USFbCB9flEY" style="height:200px;width:300px;" allowfullscreen frameborder="0"></iframe>
+ <iframe width="956" height="538" src="https://www.youtube.com/embed/USFbCB9flEY" allowfullscreen frameborder="0"></iframe>
  wewe
- we
+ weefe
