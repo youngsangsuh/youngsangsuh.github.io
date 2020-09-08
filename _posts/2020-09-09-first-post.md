@@ -58,7 +58,7 @@ Furthermore, we use dynamic programming method to construct the algorithm. Dynam
 <strong> Maximally Occupying Convex Space </strong> <br>
 
 <div style="font-size: 15px; line-height: 25px;">
-Given a rectangular world free space <img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/>, a set <img src="http://latex.codecogs.com/svg.latex?\mathbb{C}"/> of convex subsets in <img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/> and a set <img src="http://latex.codecogs.com/svg.latex?\mathbb{O}"/> of cuboid obstacles, a cuboid convex closed set <img src="http://latex.codecogs.com/svg.latex?C"/> is a maximally occupying convex space if and only if <img src="http://latex.codecogs.com/svg.latex?~\forall c \in"/> <img src="http://latex.codecogs.com/svg.latex?\mathbb{C}"/> s.t. <img src="http://latex.codecogs.com/svg.latex?c \not\subset C"/>, <img src="http://latex.codecogs.com/svg.latex?c \cup C \text{ is not convex set.}"/>
+Given a rectangular world free space <img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/>, a set <img src="http://latex.codecogs.com/svg.latex?\mathbb{C}"/> of convex subsets in <img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/> and a set <img src="http://latex.codecogs.com/svg.latex?\mathbb{O}"/> of cuboid obstacles, a cuboid convex closed set <img src="http://latex.codecogs.com/svg.latex?C"/> is a maximally occupying convex space if and only if <img src="http://latex.codecogs.com/svg.latex?~\forall c \in"/> <img src="http://latex.codecogs.com/svg.latex?\mathbb{C}"/> s.t. <img src="http://latex.codecogs.com/svg.latex?c \not\subset C"/>, <img src="http://latex.codecogs.com/svg.latex?c \cup C"/> is not convex set.
 
   dee
   </div>
