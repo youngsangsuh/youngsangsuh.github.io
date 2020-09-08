@@ -25,14 +25,14 @@ SFC consists of overlapping convex spaces that guarantee collision avoidance whe
 </div>
 
 <hr class="one">
-<center> Motivation </center> <br>
+<strong> Motivation </strong> <br>
 
 <div style="font-size: 15px; line-height: 25px;"> 
 Fast and safe motion planning of UAV is still a crucial task to achieve. However, previous studies that utilize SFC need seed points or initial paths to construct SFC. If we generate every possible SFC in the free space priori, the system can have computational efficiency to return safe trajectories. It is because SFC does not have to be constructed every trial, which reduces computation time. <br>
 </div>
 
 <hr class="one">
-<center> Task </center> <br>
+<strong> Task </strong> <br>
 
 <div style="font-size: 15px; line-height: 25px;">
 To prebuild every possible SFC, we have to define a convex space and prove that those spaces represent every feasible path in the free space. After the proof, an algorithm that generates every defined convex space should be devised. <br>
@@ -40,7 +40,7 @@ To prebuild every possible SFC, we have to define a convex space and prove that 
 </div>
 
 <hr class="one">
-<center> Approach </center> <br>
+<strong> Approach </strong> <br>
  
 <div style="font-size: 15px; line-height: 25px;">
 How should we define a specific convex space to fill the whole free space without seed points? <br>
