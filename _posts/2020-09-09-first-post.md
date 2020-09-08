@@ -1,22 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
+title: "A Fast and Safe Motion Planning Algorithm in Cluttered Environment using Maximally Occupying Convex Space"
 date: 2020-09-09 00:00:00 -0400
 categories: research
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<div style="font-size: 15px; line-height: 25px;">
+This paper presents a new planning method in cluttered environment using a newly defined concept called a maximally occupying convex space (MOCS). Motion planning methods that use safe flight corridor (SFC) generally construct SFC in every new trial based on each initial path. We define a MOCS in a three-dimensional rectangular world to be prebuilt as SFC, prior to the initial path computation that leads to optimization process without running SFC construction phase. In the rectangular world, creating every possible MOCS covers all the free space overlapping with others if there exists a feasible path among those spaces. Thus, expressing MOCSs as nodes and their overlappings as edges, we can formulate a simplified graph representing the free space. Dijkstra algorithm is applied to a simplified graph in this work. This approach enables to omit constructing SFC every new trial, and to use path planning algorithm with small amount of nodes thereby, achieve efficient computation. We provide a completeness of a planning algorithm in a rectangular space, and show computation efficiency compared with a state-of-the-art algorithm based on SFC. <br>
+<br>
+ <center><a href="https://youtu.be/USFbCB9flEY" target="_blank">video</a></center>
+</div>
