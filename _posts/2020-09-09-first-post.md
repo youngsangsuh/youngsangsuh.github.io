@@ -53,3 +53,11 @@ Our approach is to use inclusion relation with other convex spaces. With this ap
 <br>
 Furthermore, we use dynamic programming method to construct the algorithm. Dynamic programming is a powerful technique because almost all of the algorithms can be made by this method. <br>
 </div>
+
+<hr class="one">
+<strong> Maximally Occupying Convex Space </strong> <br>
+
+<div style="font-size: 15px; line-height: 25px;">
+<img src="http://latex.codecogs.com/svg.latex?\mathbb{W}"/>
+  dee
+  </div>
