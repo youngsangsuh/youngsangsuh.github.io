@@ -98,49 +98,49 @@ The proposed method turns out to be feasible through simulations. Simple cuboid 
 <strong> Computation time comparison </strong> <br>
 Among previous studies that use SFC, we compare the proposed method with Gao’s method. Our method returns safe trajectory 1.7 times faster than Gao's method in our simulated environment.<br> 
 
-<center><style type="text/css">
+<p align="middle"><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j4pq{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-yj5y">Proposed method</th>
-    <th class="tg-yj5y">MOCS (once)</th>
-    <th class="tg-yj5y">Dijkstra</th>
-    <th class="tg-yj5y">Optimization</th>
-    <th class="tg-yj5y">Total</th>
+    <th class="tg-j4pq">Proposed method</th>
+    <th class="tg-j4pq">MOCS (once)</th>
+    <th class="tg-j4pq">Dijkstra</th>
+    <th class="tg-j4pq">Optimization</th>
+    <th class="tg-j4pq">Total</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">Time (ms)</td>
-    <td class="tg-c3ow">8.24</td>
-    <td class="tg-c3ow">0.03</td>
-    <td class="tg-c3ow">44.22</td>
-    <td class="tg-c3ow">52.49</td>
+    <td class="tg-wp8o">Time (ms)</td>
+    <td class="tg-wp8o">8.24</td>
+    <td class="tg-wp8o">0.03</td>
+    <td class="tg-wp8o">44.22</td>
+    <td class="tg-wp8o">52.49</td>
   </tr>
   <tr>
-    <td class="tg-yj5y">Gao's method (0.1 m resolution)</td>
-    <td class="tg-yj5y">A*</td>
-    <td class="tg-yj5y">SFC</td>
-    <td class="tg-yj5y">Optimization</td>
-    <td class="tg-yj5y">Total</td>
+    <td class="tg-j4pq">Gao's method (0.1 m resolution)</td>
+    <td class="tg-j4pq">A*</td>
+    <td class="tg-j4pq">SFC</td>
+    <td class="tg-j4pq">Optimization</td>
+    <td class="tg-j4pq">Total</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Time (ms)</td>
-    <td class="tg-c3ow">1.30</td>
-    <td class="tg-c3ow">74.14</td>
-    <td class="tg-c3ow">15.08</td>
-    <td class="tg-c3ow">90.52</td>
+    <td class="tg-wp8o">Time (ms)</td>
+    <td class="tg-wp8o">1.30</td>
+    <td class="tg-wp8o">74.14</td>
+    <td class="tg-wp8o">15.08</td>
+    <td class="tg-wp8o">90.52</td>
   </tr>
 </tbody>
-</table> </center>
+</table> </p>
 
 <br>
 Please refer to our paper for further details.
