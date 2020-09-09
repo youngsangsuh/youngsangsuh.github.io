@@ -1,7 +1,7 @@
 ---
 title: "Stair Climbing Two-Wheel Vehicle"
 date: 2020-09-09 00:00:00 -0400
-categories: research
+categories: project
 # classes: wide
 ---
 
