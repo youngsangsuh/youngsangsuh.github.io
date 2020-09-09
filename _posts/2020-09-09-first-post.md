@@ -77,7 +77,7 @@ Please refer to our paper for further details and proofs.
 <strong> Algorithmic Implementation </strong> <br>
 
 <div style="font-size: 15px; line-height: 25px;">
-We use dynamic programming method to implement an algorithm. We divide a problem into small solvable problems and merge it together at last. You can check our <a href="https://youtu.be/USFbCB9flEY" target="_blank">MOCS construction</a> video for details. <br><br>
+We use dynamic programming method to implement an algorithm. We divide a problem into small solvable problems and merge it together at last. You can check our <a href="https://youtu.be/USFbCB9flEY" target="_blank">MOCS construction</a> video for visual explanation. <br><br>
   
 After MOCS construction phase, we represent the free space as a simplified undirected graph through connecting every overlapping MOCS. Reasonable function is adopted for an edgecost  function and Dijkstra algorithm is implemented for computation. <br>
 
@@ -93,6 +93,49 @@ The proposed method turns out to be feasible through simulations. Simple cuboid 
 <br><br>
 
 <strong> Computation time comparison </strong> <br>
+Among previous studies that use SFC, we compare the proposed method with Gao’s method. Our method returns safe trajectory 1.7 times faster than Gao's method in our simulated environment.<br> 
 
-
+<center> <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Proposed method</th>
+    <th class="tg-c3ow">MOCS construction (once)</th>
+    <th class="tg-c3ow">Dijkstra</th>
+    <th class="tg-c3ow">Optimization</th>
+    <th class="tg-c3ow">Total</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Time (ms)</td>
+    <td class="tg-c3ow">8.24</td>
+    <td class="tg-c3ow">0.03</td>
+    <td class="tg-c3ow">44.22</td>
+    <td class="tg-c3ow">52.49</td>
+  </tr>
+  <tr>
+    <td class="tg-yj5y">Gao's method (0.1 m resolution)</td>
+    <td class="tg-yj5y">A*</td>
+    <td class="tg-yj5y">SFC construction</td>
+    <td class="tg-yj5y">Optimization</td>
+    <td class="tg-yj5y">Total</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Time (ms)</td>
+    <td class="tg-c3ow">1.30</td>
+    <td class="tg-c3ow">74.14</td>
+    <td class="tg-c3ow">15.08</td>
+    <td class="tg-c3ow">90.52</td>
+  </tr>
+</tbody>
+</table> </center>
 
