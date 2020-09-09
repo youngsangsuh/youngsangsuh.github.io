@@ -65,11 +65,15 @@ Given a rectangular world free space <img src="http://latex.codecogs.com/svg.lat
 Left: green convex space is not a MOCS, due to its union with red rectangle is a convex space. Right: green, light blue, purple convex spaces are MOCS that contain a blue point. <br><br>
 
 <strong>Lemma </strong> <br>
-For <img src="http://latex.codecogs.com/svg.latex?x \in"/> <img src="http://latex.codecogs.com/svg.latex?\text{int}(\mathbb{W})"/>, convex set <img src="http://latex.codecogs.com/svg.latex?S \subset \mathbb{W}"/>, let us define <img src="http://latex.codecogs.com/svg.latex?d_S(x) = min \{\| x-y \| ~|~ y \in \partial S \}"/>, <img src="http://latex.codecogs.com/svg.latex?D(x) = max\{ d_C(x) ~|~ x \in"/> <img src="http://latex.codecogs.com/svg.latex?\text{int}(C), ~ C \in M \}"/>. Then, <img src="http://latex.codecogs.com/svg.latex?D(x) > 0"/>. <br>
+For <img src="http://latex.codecogs.com/svg.latex?x \in"/> <img src="http://latex.codecogs.com/svg.latex?\text{int}(\mathbb{W})"/>, convex set <img src="http://latex.codecogs.com/svg.latex?S \subset \mathbb{W}"/>, let us define <img src="http://latex.codecogs.com/svg.latex?d_S(x) = min \{\| x-y \| ~|~ y \in \partial S \}"/>, <img src="http://latex.codecogs.com/svg.latex?D(x) = max\{ d_C(x) ~|~ x \in"/> <img src="http://latex.codecogs.com/svg.latex?\text{int}(C), ~ C \in M \}"/>. Then, <img src="http://latex.codecogs.com/svg.latex?D(x) > 0"/>. <br><br>
 
 <strong>Theorem </strong> <br>
+For <img src="http://latex.codecogs.com/svg.latex?\forall{x, y} \in \text{int}(\mathbb{W})"/>, there exists feasible path from <img src="http://latex.codecogs.com/svg.latex?x"/> to <img src="http://latex.codecogs.com/svg.latex?y"/> if and only if there exists a sequence <img src="http://latex.codecogs.com/svg.latex?\mathbb{C} = \{C_1, C_2, ... ~, C_n\}"/> s.t. <img src="http://latex.codecogs.com/svg.latex?x \in C_1, y \in C_n, C_i \in M, \text{int}(C_i) \cap \text{int}(C_{i+1}) \neq \phi."/> <br><br>
+
 Please refer to our paper for further details and proofs.
-  </div>
+</div>
   
 <hr class="one">
 <strong> Algorithmic Implementation </strong> <br>
+
+
