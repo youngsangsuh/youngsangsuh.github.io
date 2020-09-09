@@ -65,6 +65,7 @@ Given a rectangular world free space <img src="http://latex.codecogs.com/svg.lat
 Left: green convex space is not a MOCS, due to its union with red rectangle is a convex space. Right: green, light blue, purple convex spaces are MOCS that contain a blue point. <br><br>
 
 <strong>Lemma </strong> <br>
+For <img src="http://latex.codecogs.com/svg.latex?x \in"/> int<img src="http://latex.codecogs.com/svg.latex?(\mathbb{W})"/>, convex set <img src="http://latex.codecogs.com/svg.latex?S \subset \mathbb{W}"/>, let us define int<img src="http://latex.codecogs.com/svg.latex?d_S(x) = min \{\| x-y \| ~|~ y \in \partial S \}"/>, <img src="http://latex.codecogs.com/svg.latex?D(x) = max\{ d_C(x) ~|~ x \in"/> int<img src="http://latex.codecogs.com/svg.latex?(C), ~ C \in M \}"/>. Then, <img src="http://latex.codecogs.com/svg.latex?D(x) > 0"/>.
 
 <strong>Theorem </strong> <br>
 Please refer to our paper for further details and proofs.
