@@ -2,7 +2,7 @@
 title: "A novel computationally efficient method to return safe trajectories"
 date: 2020-09-09 00:00:00 -0400
 categories: research
-classes: wide
+# classes: wide
 ---
 
 <div style="font-size: medium; line-height: 2em;">
@@ -109,7 +109,7 @@ Among previous studies that use SFC, we compare the proposed method with Gao’s
 <thead>
   <tr>
     <th class="tg-c3ow">Proposed method</th>
-    <th class="tg-c3ow">MOCS construction (once)</th>
+    <th class="tg-c3ow">MOCS</th>
     <th class="tg-c3ow">Dijkstra</th>
     <th class="tg-c3ow">Optimization</th>
     <th class="tg-c3ow">Total</th>
@@ -124,9 +124,9 @@ Among previous studies that use SFC, we compare the proposed method with Gao’s
     <td class="tg-c3ow">52.49</td>
   </tr>
   <tr>
-    <td class="tg-yj5y">Gao's method (0.1 m resolution)</td>
+    <td class="tg-yj5y">Gao's method</td>
     <td class="tg-yj5y">A*</td>
-    <td class="tg-yj5y">SFC construction</td>
+    <td class="tg-yj5y">SFC</td>
     <td class="tg-yj5y">Optimization</td>
     <td class="tg-yj5y">Total</td>
   </tr>
