@@ -7,7 +7,7 @@ categories: project
 
 <div style="font-size: medium; line-height: 2em;">
 <center><strong> Stair Climbing Two-Wheel Vehicle </strong> <br>
-  M2794.001700 </strong> Mechanical Product Design </strong><br>
+  M2794.001700 <strong> Mechanical Product Design </strong><br>
   Spring 2019 <br> </center>
 </div>
 
