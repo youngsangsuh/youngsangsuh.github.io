@@ -97,7 +97,6 @@ The proposed method turns out to be feasible through simulations. Simple cuboid 
 
 <strong> Computation time comparison </strong> <br>
 Among previous studies that use SFC, we compare the proposed method with Gao’s method. Our method returns safe trajectory 1.7 times faster than Gao's method in our simulated environment.<br> 
-<div style="align: center;">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -128,7 +127,7 @@ Among previous studies that use SFC, we compare the proposed method with Gao’s
   <tr>
     <td class="tg-j4pq">Gao's method (0.1 m resolution)</td>
     <td class="tg-j4pq">A*</td>
-    <td class="tg-j4pq">SFC</td>
+    <td class="tg-j4pq">SFC construction</td>
     <td class="tg-j4pq">Optimization</td>
     <td class="tg-j4pq">Total</td>
   </tr>
@@ -140,7 +139,7 @@ Among previous studies that use SFC, we compare the proposed method with Gao’s
     <td class="tg-wp8o">90.52</td>
   </tr>
 </tbody>
-</table> </div>
+</table> 
 
 <br>
 Please refer to our paper for further details.
