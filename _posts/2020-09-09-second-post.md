@@ -1,6 +1,6 @@
 ---
 title: "Smart stretchable electronics for advanced human-machine interface"
-date: 2020-09-09 00:00:00 -0400
+date: 2020-09-08 00:00:00 -0400
 categories: research
 # classes: wide
 ---
