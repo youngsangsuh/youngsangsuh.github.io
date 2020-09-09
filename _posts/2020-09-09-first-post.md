@@ -142,3 +142,6 @@ Among previous studies that use SFC, we compare the proposed method with Gao’s
 </tbody>
 </table> </center>
 
+<br>
+Please refer to our paper for further details.
+
