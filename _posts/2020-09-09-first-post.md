@@ -98,23 +98,23 @@ The proposed method turns out to be feasible through simulations. Simple cuboid 
 <strong> Computation time comparison </strong> <br>
 Among previous studies that use SFC, we compare the proposed method with Gao’s method. Our method returns safe trajectory 1.7 times faster than Gao's method in our simulated environment.<br> 
 
-<center> <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+<center><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow">Proposed method</th>
-    <th class="tg-c3ow">MOCS</th>
-    <th class="tg-c3ow">Dijkstra</th>
-    <th class="tg-c3ow">Optimization</th>
-    <th class="tg-c3ow">Total</th>
+    <th class="tg-yj5y">Proposed method</th>
+    <th class="tg-yj5y">MOCS (once)</th>
+    <th class="tg-yj5y">Dijkstra</th>
+    <th class="tg-yj5y">Optimization</th>
+    <th class="tg-yj5y">Total</th>
   </tr>
 </thead>
 <tbody>
