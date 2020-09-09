@@ -91,7 +91,7 @@ After MOCS construction phase, we represent the free space as a simplified undir
 <strong> Simulation </strong> <br>
 The proposed method turns out to be feasible through simulations. Simple cuboid obstacles and obstacle that is not cuboid are created for simulations. <a href="https://youtu.be/HF0Jnxxzqnk" target="_blank">Simulation 1</a> <a href="https://youtu.be/v_M_JT0jAIw" target="_blank">Simulation 2</a>   
   <br>
-<center><img src="/assets/images/Simulationpath.jpg" border="0" width="430" height="330"/> </center> <br>
+<center><img src="/assets/images/Simulationpath.png" border="0" width="430" height="330"/> </center> <br>
   
 <br><br>
 
