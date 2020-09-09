@@ -68,12 +68,31 @@ Left: green convex space is not a MOCS, due to its union with red rectangle is a
 For <img src="http://latex.codecogs.com/svg.latex?x \in"/> <img src="http://latex.codecogs.com/svg.latex?\text{int}(\mathbb{W})"/>, convex set <img src="http://latex.codecogs.com/svg.latex?S \subset \mathbb{W}"/>, let us define <img src="http://latex.codecogs.com/svg.latex?d_S(x) = min \{\| x-y \| ~|~ y \in \partial S \}"/>, <img src="http://latex.codecogs.com/svg.latex?D(x) = max\{ d_C(x) ~|~ x \in"/> <img src="http://latex.codecogs.com/svg.latex?\text{int}(C), ~ C \in M \}"/>. Then, <img src="http://latex.codecogs.com/svg.latex?D(x) > 0"/>. <br><br>
 
 <strong>Theorem </strong> <br>
-For <img src="http://latex.codecogs.com/svg.latex?\forall{x, y} \in \text{int}(\mathbb{W})"/>, there exists feasible path from <img src="http://latex.codecogs.com/svg.latex?x"/> to <img src="http://latex.codecogs.com/svg.latex?y"/> if and only if there exists a sequence <img src="http://latex.codecogs.com/svg.latex?\mathbb{C} = \{C_1, C_2, ... ~, C_n\}"/> s.t. <img src="http://latex.codecogs.com/svg.latex?x \in C_1, y \in C_n, C_i \in M, \text{int}(C_i) \cap \text{int}(C_{i+1}) \neq \phi."/> <br><br>
+For <img src="http://latex.codecogs.com/svg.latex?\forall{x, y} \in \text{int}(\mathbb{W})"/>, there exists feasible path from <img src="http://latex.codecogs.com/svg.latex?x"/> to <img src="http://latex.codecogs.com/svg.latex?y"/> if and only if there exists a sequence <img src="http://latex.codecogs.com/svg.latex?\mathbb{C} = \{C_1, C_2, ... ~, C_n\}"/> s.t. <img src="http://latex.codecogs.com/svg.latex?x \in C_1, y \in C_n, C_i \in M, \text{int}(C_i) \cap \text{int}(C_{i+1}) \neq \phi"/>. <br><br>
 
 Please refer to our paper for further details and proofs.
 </div>
   
 <hr class="one">
 <strong> Algorithmic Implementation </strong> <br>
+
+<div style="font-size: 15px; line-height: 25px;">
+We use dynamic programming method to implement an algorithm. We divide a problem into small solvable problems and merge it together at last. You can check our <a href="https://youtu.be/USFbCB9flEY" target="_blank">MOCS construction</a> video for details. <br><br>
+  
+After MOCS construction phase, we represent the free space as a simplified undirected graph through connecting every overlapping MOCS. Reasonable function is adopted for an edgecost  function and Dijkstra algorithm is implemented for computation. <br>
+
+</div>
+
+<hr class="one">
+<strong> Results </strong> <br>
+
+<div style="font-size: 15px; line-height: 25px;">
+<strong> Simulation </strong> <br>
+The proposed method turns out to be feasible through simulations. Simple cuboid obstacles and obstacle that is not cuboid are created for simulations.
+  
+<br><br>
+
+<strong> Computation time comparison </strong> <br>
+
 
 
