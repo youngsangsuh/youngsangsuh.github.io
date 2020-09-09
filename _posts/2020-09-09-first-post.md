@@ -2,6 +2,7 @@
 title: "A novel computationally efficient method to return safe trajectories"
 date: 2020-09-09 00:00:00 -0400
 categories: research
+classes: wide
 ---
 
 <div style="font-size: medium; line-height: 2em;">
