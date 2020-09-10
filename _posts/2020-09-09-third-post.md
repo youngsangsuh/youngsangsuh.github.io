@@ -37,11 +37,11 @@ The pictures below are our final design. We used aluminum profiles for the vehic
 
 <br>
 <strong> Frame / Crawler</strong> <br><br>
-<center> <img src="/assets/images/frame.jpg" border="0" width="200"/> <img src="/assets/images/crawler.jpg" border="0" width="200"/></center>
+<center> <img src="/assets/images/frame.jpg" border="0" width="250"/> <img src="/assets/images/crawler.jpg" border="0" width="250"/></center>
 <br><br>
 
 <strong> Container / Battery </strong> <br><br>
-<center> <img src="/assets/images/container.jpg" border="0"  width="200"/>  <img src="/assets/images/battery.jpg" border="0" width="200"/>  </center>
+<center> <img src="/assets/images/container.jpg" border="0"  width="250"/>  <img src="/assets/images/battery.jpg" border="0" width="250"/>  </center>
 <br><br>
 
 </div>
