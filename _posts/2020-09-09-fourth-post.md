@@ -53,7 +53,7 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
   
   <center><img src="/assets/images/Powermill.png" border="0" width="400" />   </center> <br><br>
   
-  <strong> CNC machine </strong> <br><br>
+  <strong> CNC machining </strong> <br><br>
   
   <center><img src="/assets/images/moldfinish.png" border="0" width="300" />   </center> <br><br>
   
