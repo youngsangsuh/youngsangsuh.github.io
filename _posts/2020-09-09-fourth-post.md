@@ -26,7 +26,7 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
     <li> increase moment of inertia: use nuts </li>
     <li> attention-grabbing design: hexagon design resembling a snowflake </li>
   </ul>
-  <br> <center><img src="/assets/images/hexagon.png" border="0" width="300" height="330"/> </center>
+  <br> <center><img src="/assets/images/hexagon.png" border="0" width="200" height="200"/> </center>
 <br>
 </div>
   
@@ -36,11 +36,11 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
 <div style="font-size: 15px; line-height: 25px;">
   We considered ejection pin locations and under-cut problems. Gas vents in the mold are added to minimize the air trap issues. <br>
   <strong> Product </strong> <br><br>
-<center><img src="/assets/images/fidgetspinnerdesign.png" border="0" width="300" height="330"/>   </center>
+<center><img src="/assets/images/fidgetspinnerdesign.png" border="0" width="400" height="330"/>   </center>
 <br><br>
   
   <strong> Mold </strong> <br><br>
-  <center><img src="/assets/images/mold.png" border="0" width="300" height="330"/>   </center>
+  <center><img src="/assets/images/mold.png" border="0" width="400" height="330"/>   </center>
   <br><br>
   
   </div>
