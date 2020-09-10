@@ -23,8 +23,8 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
 
 <div style="font-size: 15px; line-height: 25px;">
   <ul>
-    <li> increase moment of inertia: use nuts </li>
-    <li> attention-grabbing design: hexagon design resembling a snowflake </li>
+    <li> Increase moment of inertia: use nuts </li>
+    <li> Attention-grabbing design: hexagon design resembling a snowflake </li>
   </ul>
   <br> <center><img src="/assets/images/hexagon.png" border="0" width="150" height="150"/> </center>
 <br>
