@@ -21,17 +21,24 @@ The article contains the recent progress of stretchable electronics for human-ma
 <strong> Index </strong><br>
 
 <div style="font-size: 15px; line-height: 25px;"> 
-  * <strong> Stretchable Sensors for HMI </strong> <br>
-  - Mechanical sensors <br>
-  - Electrical sensors <br>
-  - Integrated system <br>
-  
-* <strong>Stretchable Actuators for HMI </strong><br>
-  - Stretchable human assistive devices <br>
-  - Stretchable mechanical haptic devices <br>
-
-* <strong>Intelligence Aided Devices </strong><br>
-  - Intelligence aided stretchable sensors <br>
-  - Intelligence aided stretchable actuators <br>
-
+  <ul>
+  <li> <strong> Stretchable Sensors for HMI </strong> <br>
+    <ul>
+      <li> Mechanical sensors <br>
+      <li> Electrical sensors <br>
+      <li> Integrated system <br>
+    </ul>
+  <br>
+<li> <strong>Stretchable Actuators for HMI </strong><br>
+  <ul>
+      <li> Stretchable human assistive devices <br>
+      <li> Stretchable mechanical haptic devices <br>
+  </ul>
+<br>
+<li> <strong>Intelligence Aided Devices </strong><br>
+  <ul>
+      <li> Intelligence aided stretchable sensors <br>
+      <li> Intelligence aided stretchable actuators <br>
+  </ul>
+  </ul>
 </div>
