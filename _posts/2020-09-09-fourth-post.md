@@ -48,7 +48,7 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
 <hr class="one">
 <strong> Mold Manufacture </strong> <br>
 <div style="font-size: 15px; line-height: 25px;">
-  <strong> G code </strong> <br><br>
+  <strong> G code </strong> <br>
   Through Powermill software, we built a G code for CNC machine. <br><br>
   
   <center><img src="/assets/images/Powermill.png" border="0" width="500" />   </center> <br><br>
