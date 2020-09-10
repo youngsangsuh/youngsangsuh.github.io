@@ -30,7 +30,7 @@ We brainstormed the vehicle design. Red box in the picture below indicates our s
 <hr class="one">
 <strong> Solidworks Design </strong><br>
 <div style="font-size: 15px; line-height: 25px;"> 
-We used aluminum profiles for the vehicle frame. Upper frame makes a slope at the front end to make ease of climbing action. Battery which takes a big part of total weight is located slightly back of the container. By setting center of mass at the rear end, it guarantees enough contact area when the vehicle reaches the inflection point of the stairs and can alleviate the swing. Rubber belts are implemented for tires of the vehicle. As we mentioned, the container is held with a swing. <br><br>
+We used aluminum profiles for the vehicle frame. Upper frame makes a slope at the front end to make ease of climbing action. Battery which takes a big part of total weight is located slightly back of the container. By setting center of mass at the rear end, it guarantees enough contact area when the vehicle reaches the inflection point of the stairs and can alleviate the swing. Rubber belts are implemented for tire, and pulleys are manufactured of aluminum and 3D printer. As we mentioned, the container is held with a swing. <br><br>
   
 <center><img src="/assets/images/stairclimbing.jpg" border="0" width="300" height="330"/></center>
 <br>
