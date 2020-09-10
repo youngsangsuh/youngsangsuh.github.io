@@ -12,7 +12,7 @@ categories: project
 
 <div style="font-size: 15px; line-height: 25px;">
 We manufactured a stretchable strain sensor through UV laser sintering of Ag nanoparticles. Ag NP and CPI were spin coated on a silicon wafer, and UV laser power was controlled for stable crack generation. Because of fine crack structure, we checked that resistance increased as the sensor was stretched. <br>
-   <br> <center>  <img src="/assets/images/KakaoTalk_20200907_232200069.jpg" border="0" width="300" height="330"/> </center> 
+   <br> <center>  <img src="/assets/images/KakaoTalk_20200907_232200069.jpg" border="0" width="300" height="330"/> <img src="/assets/images/large sensor.jpg" border="0" width="300" height="330"/> </center> 
 <br> <center> <a href="https://youtu.be/6zin0rP-MX4" target="_blank">video</a> </center>
 <br>
 </div>
@@ -50,7 +50,7 @@ Through microscope observation, we found out that about 5 mW is adequate UV lase
 
 <strong> Laser sintering </strong> <br>
 We sintered Ag NP according to the design by SAMLight software and galvanometer equipment. <br><br>
-<center> <img src="/assets/images/sensor 제작.jpg" border="0" width="300" height="330"/> <img src="/assets/images/large sensor.jpg" border="0" width="300" height="330"/> </center> <br>
+<center> <img src="/assets/images/sensor 제작.jpg" border="0" width="300" height="330"/> </center> <br>
 <br>
 
 </div>
