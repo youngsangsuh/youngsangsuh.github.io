@@ -30,4 +30,36 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
 <br>
 </div>
   
-    
+<hr class="one">
+<strong> Solidworks Design </strong> <br>
+
+<div style="font-size: 15px; line-height: 25px;">
+  We considered ejection pin locations and under-cut problems. Gas vents in the mold are added to minimize the air trap issues. <br>
+  <strong> Product </strong> <br><br>
+<center><img src="/assets/images/fidgetspinnerdesign.png" border="0" width="300" height="330"/>   </center>
+<br><br>
+  
+  <strong> Mold </strong> <br><br>
+  <center><img src="/assets/images/mold.png" border="0" width="300" height="330"/>   </center>
+  <br><br>
+  
+  </div>
+
+<hr class="one">
+<strong> Mold Manufacture </strong> <br>
+<div style="font-size: 15px; line-height: 25px;">
+  <strong> G code </strong> <br><br>
+  Through Powermill software, we built a G code for CNC machine. <br><br>
+  
+  <center><img src="/assets/images/Powermill.png" border="0" width="300" height="330"/>   </center> <br><br>
+  
+  <strong> CNC machine </strong> <br><br>
+  
+  <center><img src="/assets/images/moldfinish.png" border="0" width="300" height="330"/>   </center> <br><br>
+  
+ 
+  </div>
+  
+  <hr class="one">
+<strong> Injection Molding </strong> <br>
+  
