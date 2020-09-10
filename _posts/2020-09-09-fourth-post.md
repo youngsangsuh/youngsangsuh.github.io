@@ -12,7 +12,7 @@ categories: project
 
 <div style="font-size: 15px; line-height: 25px;">
 Our mission was to design and manufacture a toy through ABS injection molding. We manufactured a fidget spinner. We designed the product and mold for injection molding. CNC machine was used to fabricate the mold. Check our product demonstration! <br>
-  <br> <center>  <img src="/assets/images/fidgetspinner.JPG" border="0" width="300" height="330"/> </center> <br>
+  <br> <center>  <img src="/assets/images/fidgetspinner.JPG" border="0" width="300" height="330"/> </center> 
 
 <br> <center> <a href="https://youtu.be/e5Zdj4nso0k" target="_blank">video</a> </center>
 <br>
