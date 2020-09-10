@@ -9,7 +9,7 @@ categories: research
 <center><strong> A Fast and Safe Motion Planning Algorithm in Cluttered Environment using Maximally Occupying Convex Space</strong> <br>
   Youngsang Suh, Jiseock Kang, Dongjun Lee <br>
   International Conference on Control, Automation and Systems (ICCAS) 2020 <br>
-  <a href="/assets/pdf/A fast and safe motion planning algorithm in cluttered environment using maximally occupying convex space.pdf" target="_blank">paper</a> <a href="https://youtu.be/USFbCB9flEY" target="_blank">video 1</a> <a href="https://youtu.be/HF0Jnxxzqnk" target="_blank">video 2</a> <a href="https://youtu.be/v_M_JT0jAIw" target="_blank">video 3</a>   <br> </center>
+  <a href="/assets/pdf/A fast and safe motion planning algorithm in cluttered environment using maximally occupying convex space.pdf" target="_blank">paper</a> <a href="https://youtu.be/USFbCB9flEY" target="_blank">video1</a> <a href="https://youtu.be/HF0Jnxxzqnk" target="_blank">video2</a> <a href="https://youtu.be/v_M_JT0jAIw" target="_blank">video3</a>   <br> </center>
 </div>
 
 <div style="font-size: 15px; line-height: 25px;">
