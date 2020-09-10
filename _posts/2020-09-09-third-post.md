@@ -13,7 +13,7 @@ categories: project
 <div style="font-size: 15px; line-height: 25px;">
 Our mission was to design and manufacture a stair climbing vehicle that can carry squash balls safely in the container with only two motors. We manufactured a stair climbing two-wheel vehicle implementing caterpillar design. Two BLDC 250W motors were used for the power. Check our product demonstration! <br>
 <br> <center><img src="/assets/images/stairclimb.JPG" border="0" width="300" height="330"/> </center>
-<br> <center> <a href="https://youtu.be/zbO6nPRZ41U" target="_blank">demonstration</a>  <a href="https://youtu.be/o7WLumbu6R0" target="_blank">simulation</a> </center>  
+<br> <center> <a href="https://youtu.be/zbO6nPRZ41U" target="_blank">demonstration</a> / <a href="https://youtu.be/o7WLumbu6R0" target="_blank">simulation</a> </center>  
 <br>
   
 </div>
