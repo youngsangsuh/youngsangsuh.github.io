@@ -36,11 +36,11 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
 <div style="font-size: 15px; line-height: 25px;">
   We considered ejection pin locations and under-cut problems. Gas vents in the mold are added to minimize the air trap issues. For flow balance, we designed the mold to be symmetric. <br><br>
   <strong> Product </strong> <br><br>
-<center><img src="/assets/images/fidgetspinnerdesign.png" border="0" width="400" height="330"/>   </center>
+<center><img src="/assets/images/fidgetspinnerdesign.png" border="0" width="500" height="400"/>   </center>
 <br><br>
   
   <strong> Mold </strong> <br><br>
-  <center><img src="/assets/images/mold.png" border="0" width="400" height="330"/>   </center>
+  <center><img src="/assets/images/mold.png" border="0" width="500" height="400"/>   </center>
   <br><br>
   
   </div>
@@ -51,11 +51,11 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
   <strong> G code </strong> <br><br>
   Through Powermill software, we built a G code for CNC machine. <br><br>
   
-  <center><img src="/assets/images/Powermill.png" border="0" width="450" />   </center> <br><br>
+  <center><img src="/assets/images/Powermill.png" border="0" width="500" />   </center> <br><br>
   
   <strong> CNC machining </strong> <br><br>
   
-  <center><img src="/assets/images/moldfinish.png" border="0" width="300" />   </center> <br><br>
+  <center><img src="/assets/images/moldfinish.png" border="0" width="400" />   </center> <br><br>
   
  
   </div>
