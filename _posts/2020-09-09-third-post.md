@@ -37,11 +37,11 @@ We used aluminum profiles for the vehicle frame. Upper frame makes a slope at th
 
 <br>
 <strong> Frame / Crawler</strong> <br><br>
-<center> <img src="/assets/images/frame.jpg" border="0" weight="200"/> <img src="/assets/images/crawler.jpg" border="0" weight="200"/></center>
+<center> <img src="/assets/images/frame.jpg" border="0" width="200"/> <img src="/assets/images/crawler.jpg" border="0" width="200"/></center>
 <br><br>
 
 <strong> Container / Battery </strong> <br><br>
-<center> <img src="/assets/images/container.jpg" border="0"  weight="200"/>  <img src="/assets/images/battery.jpg" border="0" weight="200"/>  </center>
+<center> <img src="/assets/images/container.jpg" border="0"  width="200"/>  <img src="/assets/images/battery.jpg" border="0" width="200"/>  </center>
 <br><br>
 
 </div>
