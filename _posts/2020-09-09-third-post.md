@@ -12,6 +12,6 @@ categories: project
 
 <div style="font-size: 15px; line-height: 25px;">
 We manufactured a stair climbing two-wheel vehicle implementing caterpillar design. Two BLDC 250W motors were used for the power. Check our product demonstration! <br>
-<br> <center> video </center>
+<br> <center> <a href="https://youtu.be/zbO6nPRZ41U" target="_blank">video</a> </center>
 <br>
 </div>
