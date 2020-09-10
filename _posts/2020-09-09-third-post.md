@@ -23,7 +23,7 @@ Our mission was to design and manufacture a stair climbing vehicle that can carr
 
 <div style="font-size: 15px; line-height: 25px;"> 
 We brainstormed the vehicle design. Red box in the picture below indicates our selection. To climb up the stairs, we chose caterpillar design and to carry squash balls, we selected swing design for the container. Right picture shows our first draft of the vehicle. <br>
-<center><img src="/assets/images/brainstorming1.jpg" border="0" width="300" height="330"/> <img src="/assets/images/brainstorming2.jpg" border="0" width="300" height="330"/></center>
+<center><img src="/assets/images/brainstorming1.JPG" border="0" width="300" height="330"/> <img src="/assets/images/brainstorming2.jpg" border="0" width="300" height="330"/></center>
 <br>
 </div>
 
