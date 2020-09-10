@@ -14,7 +14,7 @@ categories: research
 
 <div style="font-size: 15px; line-height: 25px;">
 <br>
-The article contains the recent progress of stretchable electronics for human-machine interface by introducing various cutting-edge technologies such as multifunctional sensors, wireless operation, and wearable assistive/haptic devices. Especially, machine intelligence combined devices are also introduced which have recently gained great interest in the field. This paper will present comprehensive understandings and background of the recent stretchable sensors and actuating systems, and would deliver practical and academic impact across a large research area. <br>  
+The article contains the recent progress of stretchable electronics for human-machine interface by introducing various cutting-edge technologies such as multifunctional sensors, wireless operation, and wearable assistive/haptic devices. Especially, machine intelligence combined devices are also introduced which have recently gained great interest in the field. This paper presents comprehensive understandings and background of the recent stretchable sensors and actuating systems, and delivers practical and academic impact across a large research area. <br>  
 </div>
 
 <hr class="one">
