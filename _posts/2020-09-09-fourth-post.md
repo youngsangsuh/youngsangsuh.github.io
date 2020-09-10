@@ -1,6 +1,6 @@
 ---
 title: "Fidget Spinner"
-date: 2020-09-09 00:00:00 -0400
+date: 2020-09-09 12:00:00 -0400
 categories: project
 # classes: wide
 ---
