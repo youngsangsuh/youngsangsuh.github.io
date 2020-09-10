@@ -51,6 +51,6 @@ The pictures below are our semi-final design. We used aluminum profiles for the 
 <div style="font-size: 15px; line-height: 25px;"> 
 After trial and error, we modified some details. We first assumed the belt was a rigid body to calculate the adequate slop of the vehicle. However, it was deformed by the stairs and the vehicle was hard to achieve the goal. Hence, we lowered the slope and increased the belt tension. <br><br>
   
-<center> <img src="/assets/images/finaldesign.JPG" border="0"  width="200"/>  <img src="/assets/images/battery.jpg" border="0" width="200"/>  </center>
+<center> <img src="/assets/images/finaldesign.JPG" border="0"  width="200"/>  </center>
 <br>
 </div>
