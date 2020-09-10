@@ -1,5 +1,5 @@
 ---
-title: "Stretchable Strain Sensor"
+title: "Stretchable Strain Sensor (Ongoing)"
 date: 2020-09-10 00:00:00 -0400
 categories: project
 # classes: wide
