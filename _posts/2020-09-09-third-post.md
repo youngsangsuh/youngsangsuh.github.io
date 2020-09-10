@@ -12,7 +12,7 @@ categories: project
 
 <div style="font-size: 15px; line-height: 25px;">
 Our mission was to design and manufacture a stair climbing vehicle that can carry squash balls safely in the container with only two motors. We manufactured a stair climbing two-wheel vehicle implementing caterpillar design. Two BLDC 250W motors were used for the power. Check our product demonstration! <br>
-<br> <center><img src="/assets/images/finaldesign.JPG" border="0" width="300" height="330"/> </center>
+<br> <center><img src="/assets/images/stairclimb.JPG" border="0" width="300" height="330"/> </center>
 <br> <center> <a href="https://youtu.be/zbO6nPRZ41U" target="_blank">demonstration</a>  <a href="https://youtu.be/o7WLumbu6R0" target="_blank">simulation</a> </center>  
 <br>
   
@@ -28,11 +28,11 @@ We brainstormed the vehicle design. Red box in the picture below indicates our s
 </div>
 
 <hr class="one">
-<strong> Solidworks Design </strong><br>
+<strong> Design </strong><br>
 <div style="font-size: 15px; line-height: 25px;"> 
-The pictures below are our semi-final design. We used aluminum profiles for the vehicle frame. Upper frame makes a 45 degree slope at the front end to make ease of climbing action. Battery which takes a big part of total weight is located slightly back of the container. By setting center of mass at the rear end, it guarantees enough contact area when the vehicle reaches the inflection point of the stairs and can alleviate the swing. Rubber belts are implemented for tire, and pulleys are manufactured of aluminum and 3D printer. As we mentioned, the container is held with a swing. <br><br>
+The pictures below are our final design. We used aluminum profiles for the vehicle frame. Upper frame makes a 45 degree slope at the front end to make ease of climbing action. Battery which takes a big part of total weight is located slightly back of the container. By setting center of mass at the rear end, it guarantees enough contact area when the vehicle reaches the inflection point of the stairs and can alleviate the swing. Rubber belts are implemented for tire, and pulleys are manufactured of aluminum and 3D printer. As we mentioned, the container is held with a swing. <br><br>
   
-<center><img src="/assets/images/stairclimbing.jpg" border="0" width="300" height="330"/></center>
+<center><img src="/assets/images/stairclimbing.jpg" border="0" width="300" height="330"/> <img src="/assets/images/stairclimb2.jpg" border="0" width="300" height="330"/></center>
 <br>
 
 <br>
@@ -46,11 +46,11 @@ The pictures below are our semi-final design. We used aluminum profiles for the 
 
 </div>
 
-<hr class="one">
-<strong> Final Design </strong><br>
-<div style="font-size: 15px; line-height: 25px;"> 
-After trial and error, we modified some details. We first assumed the belt was a rigid body to calculate the adequate slop of the vehicle. However, it was deformed by the stairs and the vehicle was hard to achieve the goal. Hence, we lowered the slope and increased the belt tension. <br><br>
+#<hr class="one">
+#<strong> Final Design </strong><br>
+#<div style="font-size: 15px; line-height: 25px;"> 
+#After trial and error, we modified some details. We first assumed the belt was a rigid body to calculate the adequate slop of the vehicle. However, it was deformed by the #stairs and the vehicle was hard to achieve the goal. Hence, we lowered the slope and increased the belt tension. <br><br>
   
-<center> <img src="/assets/images/finaldesign.JPG" border="0"  width="300" height="330"/>  </center>
-<br>
-</div>
+#<center> <img src="/assets/images/finaldesign.JPG" border="0"  width="300" height="330"/>  </center>
+#<br>
+#</div>
