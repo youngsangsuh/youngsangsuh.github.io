@@ -62,4 +62,7 @@ Our mission was to design and manufacture a toy through ABS injection molding. W
   
   <hr class="one">
 <strong> Injection Molding </strong> <br>
-  
+  <div style="font-size: 15px; line-height: 25px;">
+  <center><img src="/assets/images/injectionmolding.JPG" border="0" width="500" height="400"/>   </center>
+  </div>
+
