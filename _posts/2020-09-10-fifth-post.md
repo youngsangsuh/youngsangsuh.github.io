@@ -53,5 +53,5 @@ We sintered Ag NP according to the design by SAMLight software and galvanometer 
 <center> <img src="/assets/images/sensor 제작.jpg" border="0" width="300" height="330"/> <img src="/assets/images/large sensor.jpg" border="0" width="300" height="330"/> </center> <br>
 <br>
 
-
+</div>
 
