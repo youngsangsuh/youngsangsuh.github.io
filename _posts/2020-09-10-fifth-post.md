@@ -50,7 +50,7 @@ Through microscope observation, we found out that about 5 mW is adequate UV lase
 
 <strong> Laser sintering </strong> <br>
 We sintered Ag NP according to the design by SAMLight software and galvanometer equipment. <br><br>
-<center> <img src="/assets/images/laser.png" border="0" width="300" height="330"/><img src="/assets/images/sensor 제작.png" border="0" width="300" height="330"/> </center> <br>
+<center> <img src="/assets/images/laser.png" border="0" width="300" height="330"/><img src="/assets/images/sensor 제작_.png" border="0" width="300" height="330"/> </center> <br>
 <br>
 
 </div>
