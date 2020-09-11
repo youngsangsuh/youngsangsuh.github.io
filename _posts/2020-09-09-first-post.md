@@ -96,7 +96,7 @@ The proposed method turns out to be feasible through simulations. Simple cuboid 
 <br><br>
 
 <strong> Computation time comparison </strong> <br>
-Among previous studies that use SFC, we compare the proposed method with Gao’s method. Our method returns safe trajectory 1.7 times faster than Gao's method in our simulated environment.<br> 
+Among previous studies that use SFC, we compare the proposed method with Gao’s method [1]. Our method returns safe trajectory 1.7 times faster than Gao's method in our simulated environment.<br> 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -142,6 +142,7 @@ Among previous studies that use SFC, we compare the proposed method with Gao’s
 </table> 
 
 <br>
-Please refer to our paper for further details.
+Please refer to our paper for further details. <br>
+[1] F. Gao, W. Wu, Y. Lin, and S. Shen, “Online safe trajectory generation for quadrotors using fast marching method and bernstein basis polynomial,” in 2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018, pp. 344–351. <br>
 </div>
 
