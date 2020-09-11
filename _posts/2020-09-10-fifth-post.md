@@ -53,5 +53,21 @@ We sintered Ag NP according to the design by SAMLight software and galvanometer 
 <center> <img src="/assets/images/laser.png" border="0" width="300" height="330"/><img src="/assets/images/sensor 제작.png" border="0" width="300" height="330"/> </center> <br>
 <br>
 
+<strong> Stretchable strain sensor </strong> <br>
+<center> <img src="/assets/images/sensor on wrist.jpg" border="0" width="300" height="330"/> </center> <br>
+<br>
 </div>
+
+
+<hr class="one">
+<strong> Sensor Analysis </strong> <br>
+<div style="font-size: 15px; line-height: 25px;">
+  Ongoing <br><br>
+  <center> <img src="/assets/images/KakaoTalk_20200911_132452541_03.jpg" border="0" width="300" height="330"/> </center> <br>
+  <br>
+  </div>
+
+
+
+
 
