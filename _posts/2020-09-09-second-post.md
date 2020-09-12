@@ -8,7 +8,7 @@ categories: research
 <div style="font-size: medium; line-height: 2em;">
 <center><strong> Smart stretchable electronics for advanced human-machine interface </strong> <br>
   Kyun Kyu Kim*, Youngsang Suh*, Seung Hwan Ko <br>
-  Advanced Intelligent Systems, 2020 (under review) <br>
+  Advanced Intelligent Systems, 2020 <br>
   <a href="/assets/pdf/Smart stretchable electronics for advanced human-machine interface.pdf" target="_blank">paper</a> <br> </center>
 </div>
 
