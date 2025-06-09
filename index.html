@@ -1,61 +1,100 @@
----
-layout: single
-author_profile: true
-classes: wide
-header:
-  overlay_image: assets/images/Header_modified.png
-
-
----
-<span style="font-size: medium;">
-<justify> Hi! My name is Youngsang Suh. I am a senior year undergraduate student at Seoul National University studying Mechanical Engineering. <br> </justify>
-  <center> <a href="/assets/pdf/CV_Youngsang Suh_09_12.pdf" target="_blank">Download My CV</a>  </center>
-</span>
-
-<hr class="one">
-<span style="font-weight: bold;line-height: 2.0em; ">
-Interests <br>
-</span>
-
-<span style="font-size: medium;">
-My goal is to improve <strong>robot performance</strong> with my knowledge. Controlling a dexterous manipulator or developing a high-performance robot would be a perfect example. I am interested in design and control of high-performance robots, dexterous manipulators, and intimate human-machine interaction devices. <br>
-<br>
- <center> Automation · Physical Intelligence Robot · Dexterous Manipulation · Wearable Electronics </center>
-</span>
-
-<hr class="one">
-<span style="font-weight: bold;line-height: 2.0em; ">
-Research <br>
-</span>
-
-<span style="font-size: medium; line-height: 2em;">
-
-  <strong><center>Smart stretchable electronics for advanced human-machine interface</strong> <br>
-  Kyun Kyu Kim*, Youngsang Suh*, Seung Hwan Ko <br>
-  Advanced Intelligent Systems, 2020 <br>
-  <a href="/assets/pdf/aisy.202000157.pdf" target="_blank">paper</a> <br>
-  <img src="/assets/images/reviewpaper.png" border="0" width="250" height="250"/>
-  </center> 
-</span>
-<span style="line-height: 1.7em;">
-  <center><strong>-</strong><br></center> </span>
- 
-<span style="font-size: medium; line-height: 2em;">
-<strong><center>A fast and safe motion planning algorithm in cluttered environment using maximally occupying convex space</strong> <br>
-  Youngsang Suh, Jiseock Kang, Dongjun Lee <br>
-  ICCAS 2020 <br>
-  <a href="/assets/pdf/A fast and safe motion planning algorithm in cluttered environment using maximally occupying convex space.pdf" target="_blank">paper</a><br>
-  <img src="/assets/images/MOCS.png" border="0" width="360" height="380"/> <br>
-  </center>
-  
-</span>
-
-<hr class="one">
-<span style="font-weight: bold;line-height: 2.0em; ">
-Undergraduate Course Assistant <br>
-</span> 
-
-<span style="font-size: medium;">
-  M2794.013500 <strong>Mechanical System Modeling and Control</strong> at SNU (2020) <br>
-</span>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youngsang Suh</title>
+    <style>
+        body {
+            font-family: monospace;
+            max-width: 800px;
+            margin: 5rem auto 0;
+            padding: 0 1rem;
+            color: #333;
+            line-height: 1.5;
+            display: flex;
+            justify-content: center;
+        }
+        .profile {
+            text-align: center;
+        }
+        img {
+            max-width: 12rem;
+            border-radius: 0.5rem;
+            display: block;
+            margin: 0 auto 1.5rem;
+        }
+        .social {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+        }
+        .name {
+            font-size: 0.8rem;
+            font-weight: 100;
+            letter-spacing: 0.05em;
+            color: #000;
+            margin: 0;
+        }
+        .bio {
+            font-size: 0.7rem;
+            color: #666;
+            margin: 0.5rem 0 1rem 0;
+            font-style: italic;
+        }
+        .social a, .name {
+            display: inline-block;
+            text-decoration: none;
+            transition: opacity 0.2s;
+        }
+        .social a {
+            color: inherit;
+            opacity: 0.7;
+            font-size: 0.75rem;
+        }
+        .social a:hover {
+            opacity: 1;
+            text-decoration: underline;
+        }
+        .blog-link {
+            margin-top: 2rem;
+            font-size: 0.7rem;
+        }
+        .blog-link a {
+            color: #333;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 0.25rem;
+            transition: all 0.2s;
+        }
+        .blog-link a:hover {
+            background: #f5f5f5;
+            border-color: #999;
+        }
+        @media (max-width: 768px) {
+            .social {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="assets/images/youngsang.jpeg" alt="Youngsang Suh">
+        <span class="name">Youngsang Suh</span>
+        <div class="bio">robotics & mechanical engineering</div>
+        <div class="social">
+            <a href="https://github.com/youngsangsuh">github</a>
+            <a href="https://www.linkedin.com/in/youngsang-suh-20b58b1b1/">linkedin</a>
+            <a href="mailto:yssuh0427@gmail.com">email</a>
+        </div>
+        <!-- <div class="blog-link">
+            <a href="/blog">read my thoughts</a>
+        </div> -->
+    </div>
+</body>
+</html>
